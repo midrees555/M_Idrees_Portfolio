@@ -1,7 +1,7 @@
 # M_Idrees_Portfolio
 <!-- Profile Banner (Add your own or use a default) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09B9A8&width=435&lines=Hi,+I'm+midrees555+%F0%9F%91%8B;Aspiring+Data+Analyst+%26+Future+Tech+Entrepreneur;Open+to+Work+%7C+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09B9A8&width=435&lines=Hi,+I'm+MUHAMMAD+IDREES+%F0%9F%91%8B;Aspiring+Data+Analyst+%26+Future+Tech+Entrepreneur;Open+to+Work+%7C+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
