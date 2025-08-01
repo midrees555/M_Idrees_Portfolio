@@ -66,18 +66,18 @@
 
 ---
 
-🌟 Featured Portfolio Projects
-💰 Smart Expense Tracker
-A sleek, Python-based CLI app that empowers you to track, analyze, and manage your personal finances with ease and efficiency.
-🔗 Explore Smart Expense Tracker »
+## 🌟 Featured Portfolio Projects
+- 💰 **Smart Expense Tracker**
+    A sleek, Python-based CLI app that empowers you to track, analyze, and manage your personal finances with ease and efficiency.
+<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">🔗 Explore Smart Expense Tracker »</a>
 
-🧾 Inventory CLI Manager
-Beginner-friendly Python command-line tool to effortlessly add, remove, and review products. Features persistent storage and robust input validation for smooth inventory control.
-🔗 Explore Inventory CLI Manager »
+- 🧾 Inventory CLI Manager
+    Beginner-friendly Python command-line tool to effortlessly add, remove, and review products. Features persistent storage and robust input validation for smooth inventory control.
+<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">🔗 Explore Inventory CLI Manager »</a>
 
-🗃️ Dataset Manager
-Organize and manage datasets with this intuitive project. See documentation for details, use cases, and how it streamlines your data workflows.
-🔗 Explore Dataset Manager »
+- 🗃️ Dataset Manager
+    Organize and manage datasets with this intuitive project. See documentation for details, use cases, and how it streamlines your data workflows.
+<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">🔗 Explore Dataset Manager »</a>
 
 ---
 
@@ -87,15 +87,15 @@ Organize and manage datasets with this intuitive project. See documentation for 
 
 #### 💰 SMART_EXPENSE_TRACKER
 CLI-based personal finance tracker built in Python to manage expenses efficiently.
-<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">See Details</a>
+<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">🔗 Explore Smart Expense Tracker »</a>
 
 #### 🧾 Inventory CLI Manager (Python)
 A beginner-friendly command-line tool to add, remove, and view products with persistent storage and robust input validation.
-<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">See Details</a>
+<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">🔗 Explore Inventory CLI Manager »</a>
 
 #### 🗃️ Dataset_Manager
 Project documentation and purpose
-<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">See Details</a>
+<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">🔗 Explore Dataset Manager »</a>
 
 ---
 
