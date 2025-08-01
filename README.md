@@ -68,7 +68,7 @@
 
 ## 🌟 Portfolio Projects
 
-### SMART_EXPENSE_TRACKER
+**SMART_EXPENSE_TRACKER**
 CLI-based personal finance tracker built in Python to manage expenses efficiently.
 <a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">See Details</a>
 
