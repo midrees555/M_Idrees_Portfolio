@@ -68,7 +68,7 @@
 
 ## 🌟 Portfolio Projects
 
-#### SMART_EXPENSE_TRACKER
+#### 💰 SMART_EXPENSE_TRACKER
 CLI-based personal finance tracker built in Python to manage expenses efficiently.
 <a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">See Details</a>
 
@@ -76,7 +76,7 @@ CLI-based personal finance tracker built in Python to manage expenses efficientl
 A beginner-friendly command-line tool to add, remove, and view products with persistent storage and robust input validation.
 <a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">See Details</a>
 
-#### Dataset_Manager
+#### 🗃️ Dataset_Manager
 Project documentation and purpose
 <a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">See Details</a>
 
