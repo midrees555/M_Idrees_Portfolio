@@ -67,17 +67,18 @@
 ---
 
 ## 🌟 Featured Portfolio Projects
-- 💰 **Smart Expense Tracker**
+- 💰 **Smart Expense Tracker**<br>
     A sleek, Python-based CLI app that empowers you to track, analyze, and manage your personal finances with ease and efficiency.
-<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">🔗 Explore Smart Expense Tracker »</a>
+<br><a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">🔗 Explore Smart Expense Tracker »</a>
 
-- 🧾 Inventory CLI Manager
+
+- 🧾 **Inventory CLI Manager**<br>
     Beginner-friendly Python command-line tool to effortlessly add, remove, and review products. Features persistent storage and robust input validation for smooth inventory control.
-<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">🔗 Explore Inventory CLI Manager »</a>
+<br><a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">🔗 Explore Inventory CLI Manager »</a>
 
-- 🗃️ Dataset Manager
+- 🗃️ **Dataset Manager**<br>
     Organize and manage datasets with this intuitive project. See documentation for details, use cases, and how it streamlines your data workflows.
-<a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">🔗 Explore Dataset Manager »</a>
+<br><a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">🔗 Explore Dataset Manager »</a>
 
 ---
 
