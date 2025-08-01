@@ -66,6 +66,23 @@
 
 ---
 
+🌟 Featured Portfolio Projects
+💰 Smart Expense Tracker
+A sleek, Python-based CLI app that empowers you to track, analyze, and manage your personal finances with ease and efficiency.
+🔗 Explore Smart Expense Tracker »
+
+🧾 Inventory CLI Manager
+Beginner-friendly Python command-line tool to effortlessly add, remove, and review products. Features persistent storage and robust input validation for smooth inventory control.
+🔗 Explore Inventory CLI Manager »
+
+🗃️ Dataset Manager
+Organize and manage datasets with this intuitive project. See documentation for details, use cases, and how it streamlines your data workflows.
+🔗 Explore Dataset Manager »
+
+---
+
+---
+
 ## 🌟 Portfolio Projects
 
 #### 💰 SMART_EXPENSE_TRACKER
